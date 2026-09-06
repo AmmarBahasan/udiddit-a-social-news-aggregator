@@ -7,6 +7,5 @@ posts, discussions, and votes made by their users about different topics.
 
 
 ## Requirement 
-take a look into the images (ProjectRubric#1.png & ProjectRubric#2.png), and the first 4 pages of the report pdf file. 
-
+take a look into the images ([ProjectRubric#1.png](https://github.com/AmmarBahasan/udiddit-a-social-news-aggregator/blob/main/ProjectRubric%231.png) & [ProjectRubric#2.png](https://github.com/AmmarBahasan/udiddit-a-social-news-aggregator/blob/main/ProjectRubric%232.png)), and the first 4 pages of the report [Here](https://github.com/AmmarBahasan/udiddit-a-social-news-aggregator/blob/main/udiddit_AmmarBahasan_v6.pdf). 
 
